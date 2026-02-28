@@ -8,3 +8,13 @@ C:\Users\Andrei\Desktop\Calculator\Calculator\obj\Debug\Calculator.csproj.Genera
 C:\Users\Andrei\Desktop\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
 C:\Users\Andrei\Desktop\Calculator\Calculator\obj\Debug\Calculator.exe
 C:\Users\Andrei\Desktop\Calculator\Calculator\obj\Debug\Calculator.pdb
+C:\Users\Andreii\Desktop\CS-Calculator\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\Andreii\Desktop\CS-Calculator\Calculator\bin\Debug\Calculator.exe
+C:\Users\Andreii\Desktop\CS-Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Users\Andreii\Desktop\CS-Calculator\Calculator\obj\Debug\Calculator.csproj.AssemblyReference.cache
+C:\Users\Andreii\Desktop\CS-Calculator\Calculator\obj\Debug\Calculator.Form1.resources
+C:\Users\Andreii\Desktop\CS-Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\Andreii\Desktop\CS-Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+C:\Users\Andreii\Desktop\CS-Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Andreii\Desktop\CS-Calculator\Calculator\obj\Debug\Calculator.exe
+C:\Users\Andreii\Desktop\CS-Calculator\Calculator\obj\Debug\Calculator.pdb

@@ -3,7 +3,7 @@ using System.Windows.Forms;
 using System.Drawing;
 using System.Drawing.Drawing2D;
 
-namespace ArtanButton
+namespace Calculator
 {
 	public class ArtanButton : Button
 	{
@@ -49,7 +49,8 @@ namespace ArtanButton
 		public Color BorderColor
 		{
 			get => borderColor;
-			set { BackColor = value; borderColor = value; Invalidate(); }
+			set { //BackColor = value;
+				  borderColor = value; Invalidate(); }
 		}
 
 		//Constructor

@@ -175,10 +175,10 @@
         7XS2+S9yxuaxnCv2z7fY/+AedQMN0XQ87q4AAAAASUVORK5CYII=
 </value>
   </data>
-  <data name="artanButton1.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+  <data name="BtnBackSpace.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
     <value>
         iVBORw0KGgoAAAANSUhEUgAAAB4AAAAeCAYAAAA7MK6iAAAABGdBTUEAALGPC/xhBQAAAAlwSFlzAAAL
-        EQAACxEBf2RfkQAAAWtJREFUSEvtlrtKBEEQRVfQfxHFRESNBFczE9nATU1ERcTN3Gw1UTT0V/RTNDQV
+        DAAACwwBP0AiyAAAAWtJREFUSEvtlrtKBEEQRVfQfxHFRESNBFczE9nATU1ERcTN3Gw1UTT0V/RTNDQV
         FN8gvtAjJdVQ1k73tKC7yRzopO6l7vRjpqdWq6joN8AUcAI8kM87cAasAgO+ZynAMvCmzZ6B88xxYR5i
         x/dNAqwBH8ArsAEMek8KYAK41tkPe70QoAV86iwXvJ4L0NFZb3mtC6Ct5idg3uu/QbdK6HjtB8CuGh+B
         GactApfAkq0HpA5cic/UQnB8n4EDNd0B0wV6XfdLRtNpTaPNmno6GNhXgxyGca8HXMB3eFHN+OPBwKge
@@ -190,16 +190,4 @@
   <metadata name="ElipseForm.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
     <value>17, 17</value>
   </metadata>
-  <data name="artanButton22.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
-    <value>
-        iVBORw0KGgoAAAANSUhEUgAAAB4AAAAeCAYAAAA7MK6iAAAABGdBTUEAALGPC/xhBQAAAAlwSFlzAAAL
-        EAAACxABrSO9dQAAAWtJREFUSEvtlrtKBEEQRVfQfxHFRESNBFczE9nATU1ERcTN3Gw1UTT0V/RTNDQV
-        FN8gvtAjJdVQ1k73tKC7yRzopO6l7vRjpqdWq6joN8AUcAI8kM87cAasAgO+ZynAMvCmzZ6B88xxYR5i
-        x/dNAqwBH8ArsAEMek8KYAK41tkPe70QoAV86iwXvJ4L0NFZb3mtC6Ct5idg3uu/QbdK6HjtB8CuGh+B
-        GactApfAkq0HpA5cic/UQnB8n4EDNd0B0wV6XfdLRtNpTaPNmno6GNhXgxyGca8HXMB3eFHN+OPBwKge
-        pBtgzOseF3QUC1VvMnhdxW2vxTDhQmGoUBYs76vQ9lqMvwoe0aW+7elSC8CeGnp3uAIZr9NcIsCG1029
-        PFgo+YA0tN61pIKGi94wtbxgoS+fzEBfLomAuxY3gSHvSWGuRemRdy0G3I/AS8GFHxv2R+DQ980CmASO
-        gXvTrAw53afAiu9XUfFvfAFmXZ06cOseMgAAAABJRU5ErkJggg==
-</value>
-  </data>
 </root>
